@@ -110,3 +110,13 @@ MODEL: iris has partnered with other ngos to create funding for services, such a
 ```
 
 you can check the notebook for more output examples.
+
+### Conclusion
+
+- Needs more metrics suitable for this.
+- Maybe will try finetuning this model for downstream tasks later in the future.
+- Inference should work for batch_size > 1, but I have limited time to work on this, this gets the job done.
+
+```
+Your word is a lamp to my feet and a light to my path. Psalm 119:105
+```
