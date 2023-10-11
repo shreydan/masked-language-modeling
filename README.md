@@ -98,7 +98,8 @@ MODEL: the larvae are black and flattened and feed on snails as well.
 
 masked: facility predicted: school
 ACTUAL: Throughout the year, the facility hosts a variety of educational programs.
-MASKED: throughout the year, the [MASK] hosts a variety of educational programs.MODEL: throughout the year, the school hosts a variety of educational programs.
+MASKED: throughout the year, the [MASK] hosts a variety of educational programs.
+MODEL: throughout the year, the school hosts a variety of educational programs.
 
 ---
 
